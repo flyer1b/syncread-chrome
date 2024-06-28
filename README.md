@@ -1,0 +1,1 @@
+这是syncread App的网页剪藏chrome插件。
